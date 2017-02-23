@@ -1,0 +1,37 @@
+body {
+
+ background-image: url("tausta.jpg");
+
+ 
+}    
+
+#mySidenav {
+	font-size: 18px;
+	font-family: "tahoma";
+}
+
+#main h1 {
+	font-family: "tahoma";
+	text-indent: 150px;
+	font-size: 35px;
+
+	text-align: left;
+	text-align: top;
+	
+    color:white;
+    text-shadow: -1.8px 0 black, 0 1.8px black, 1.8px 0 black, 0 -1.8px black;
+	
+	}
+	
+#main p {
+	color:white;
+	text-shadow: -1.8px 0 black, 0 1.8px black, 1.8px 0 black, 0 -1.8px black;
+	font-size: 22px;
+	font-family: "tahoma";
+	text-align: left;
+	width: 1400px;
+    height: 900px;
+    margin: 0 auto;
+    padding-top: 20px;
+	
+}
